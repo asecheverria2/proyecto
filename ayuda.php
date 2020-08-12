@@ -11,5 +11,14 @@
     <p>Texto de ayuda</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos rem enim nulla fuga voluptatibus, libero dolorum repellat doloribus omnis quisquam ea reprehenderit suscipit fugiat quos delectus eveniet, quam nisi. Hic.</p>
     
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum excepturi modi nisi rerum. Iusto eligendi labore autem, a voluptatum, aliquid corrupti, ab cumque adipisci placeat asperiores? Dolore totam voluptate magnam.</p>
+    <table>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </body>
 </html>
