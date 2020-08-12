@@ -6,7 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>Hola mundo</h1>
     <p>xdxdxdxdxx</p>
+=======
+    <p>klsdbfiasdbvasvbksvb</p>
+>>>>>>> pruebaLlenado
 </body>
 </html>
